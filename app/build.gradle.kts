@@ -10,7 +10,7 @@ android {
     defaultConfig {
         applicationId = "com.mathinskills.calculator"
         minSdk = 29
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 100000
         versionName = "1.0.0"
 
